@@ -1,6 +1,6 @@
 
-import Heading from '../../components/heading'
-import Button from '../../components/buttons'
+import Heading from '../components/heading'
+import Button from '../components/buttons'
 import './App.css'
 
 function App() {
